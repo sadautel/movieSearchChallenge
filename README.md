@@ -1,7 +1,8 @@
 # movieSearch
-The application is simply run by entering a search in the search box and hitting enter. This will bring up the desired information within the search parameters. 
+The application is simply run by entering a search query into the search box and hitting enter. This will bring up the desired information within the search parameters. 
 I would love feedback on how to improve as this was my first expereince working with NUXT and VUE.js. 
-I do not currently have the backend separated from the frontend as I ran into some errors that I am troubleshooting. I will be continuing  to work on this in order to figure it out and learn. 
+I do not currently have the backend separated from the frontend as I ran into some errors that I am troubleshooting.
+I will be continuing  to work on this in order to figure it out and learn. 
 
 Thank you for the opportunity. 
 
